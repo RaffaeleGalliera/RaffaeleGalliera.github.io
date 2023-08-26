@@ -6,7 +6,7 @@
     "email": "rgalliera@ihmc.org",
     "phone": "(541) 801-5090",
     "url": "https://RaffaeleGalliera.github.io/about/",
-    "summary": "Studying Single and Multi-Agent Reinforcement Learning applied to Communication Networks",
+    "summary": "Focusing my research on Single and Multi-Agent Reinforcement Learning for optimizing Communication Networks. I am also interning as a Research Assistant at the NOMADS lab (IHMC), in close contact with researchers and developers of communication protocols for challenged environments.",
     "location": {
       "address": "40 S Alcaniz St",
       "postalCode": "32503",
@@ -26,29 +26,32 @@
     {
       "name": "Institute for Human and Machine Cognition and The University of West Florida",
       "position": "Research Assistant",
-      "url": "https://example.com",
+      "url": "https://www.ihmc.us/",
       "startDate": "2021-08",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
+
       "highlights": [
         "Single and Multi-Agent Reinforcement Learning",
         "Machine Learning",
+        "Computer Vision",
         "Communication Networks",
-        "Distributed Systems"
+        "Distributed Systems",
+        "Presented at the AAAI 2023 Reinforcement Learning Ready for Production Workshop",
+        "Appointed Member of the NATO IST-194 Research Group on Adaptive Network at the Tactical Edge"
       ]
     },
     {
       "name": "The University of West Florida",
       "position": "Graduate Assistant",
-      "url": "https://example.com",
+      "url": "https://www.ihmc.us/",
       "startDate": "2020-08",
       "endDate": "2021-08",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
       "highlights": [
-        "Single and Multi-Agent Reinforcement Learning",
-        "Machine Learning",
-        "Communication Networks",
-        "Distributed Systems"
+        "Workshops on memory optimization for undergraduate students and utilization of Jupiter Notebooks for AI projects",
+        "Teaching Assistant (grading and tutoring)",
+        "Achieved 3rd Place at the AI Tracks at Sea nationwide competition"
       ]
     },
     {
@@ -59,10 +62,8 @@
       "endDate": "2020-08",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
-        "Single and Multi-Agent Reinforcement Learning",
-        "Machine Learning",
-        "Communication Networks",
-        "Distributed Systems"
+        "Full-stack Software Developer",
+        "Developed a web application for the management of complex IT companies infrastructures"
       ]
     }
   ],
@@ -88,39 +89,45 @@
   "education": [
     {
       "institution": "University of West Florida, Pensacola, FL, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://uwf.edu/intelligent-systems-and-robotics/",
       "area": "Intelligent System and Robotics",
       "studyType": "PhD",
       "startDate": "2021-08",
       "endDate": "Present",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Deep MARL for Communication Networks",
+        "Foundations of Intelligent Systems & Robotics",
+        "Research Methods",
+        "AI applications and NLP",
+        "Computer Vision"
       ]
     },
     {
       "institution": "University of West Florida, Pensacola, FL, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://uwf.edu/programs/hmcse/computer-science-ms/",
       "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "2020-08",
       "endDate": "2021-08",
       "score": "4.0",
       "courses": [
-        "Theory of Relativity"
+        "Machine Learning in Distributed and Embedded Systems",
+        "Machine Learning",
+        "Intro to Artificial Intelligence",
+        "Parallel and Distributed Programming",
+        "Advanced Algorithms",
+        "Data Mining"
       ]
     },
     {
       "institution": "University of Ferrara, Italy",
-      "url": "https://www.uzh.ch/",
+      "url": "https://corsi.unife.it/ing-informazione",
       "area": "Electronics and Computer Science Engineering",
       "studyType": "Bachelor of Science",
       "startDate": "2014-09",
       "endDate": "2019-09",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "score": ""
     }
   ],
   "awards": [
