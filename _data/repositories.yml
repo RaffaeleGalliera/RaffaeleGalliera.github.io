@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - RaffaeleGalliera
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - RaffaeleGalliera/melissa
+  - RaffaeleGalliera/marlin-rlcc
+  - RaffaeleGalliera/regex-parser-kozelinator
+  - RaffaeleGalliera/pytorch-cnn-text-classification

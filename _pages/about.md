@@ -2,19 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Student in the <a href='https://uwf.edu/intelligent-systems-and-robotics/'>Intelligent Systems and Robotics</a> joint program between the University of West Florida 
+  and the <a href='https://www.ihmc.us/'>Institute for Human and Machine Cognition (IHMC)</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NOMADS Lab</p>
+    <p>40 S Alcaniz St</p>
+    <p>Pensacola, Florida, USA, 32501</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
