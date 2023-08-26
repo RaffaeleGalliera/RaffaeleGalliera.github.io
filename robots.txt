@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RaffaeleGalliera.github.io/sitemap.xml
+Sitemap: https://raffaelegalliera.github.io/sitemap.xml
