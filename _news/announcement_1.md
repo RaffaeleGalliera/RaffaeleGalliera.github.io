@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-24 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "MARLIN: Soft Actor-Critic based Reinforcement Learning for Congestion Control in Real Networks" has been accepted at the 36th IEEE/IFIP Network Operations and Management Symposium (NOMS 2023)!
