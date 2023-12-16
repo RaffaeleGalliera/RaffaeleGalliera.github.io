@@ -4,7 +4,7 @@
     "label": "Ph.D. Student",
     "image": "assets/img/profile_pic.png",
     "email": "rgalliera@ihmc.org",
-    "phone": "(541) 801-5090",
+    "phone": "+1 (541) 801-5090",
     "url": "https://RaffaeleGalliera.github.io/",
     "summary": "My Ph.D. research is exploring the optimization of communication tasks with (Multi-Agent) Reinforcement Learning (RL/MARL) in Point-to-Point and Group Communication (GC) networks. I'm investigating different aspects concerning the agents' communication and their learned strategies, designing new methods to improve cooperation. I am also interning as a Research Assistant at the NOMADS lab (IHMC) in close contact with researchers and developers of communication protocols for challenged networking environments, where we collaborate to deploy learned policies on real protocols and networks.",
     "location": {
