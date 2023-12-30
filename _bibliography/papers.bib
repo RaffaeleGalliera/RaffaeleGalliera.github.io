@@ -89,22 +89,26 @@
   slides={marlin_milcom_presentation.pdf},
 }
 
-@misc{galliera2023dynamic,
+
+@INPROCEEDINGS{galliera2023dynamic,
+    author={Galliera, Raffaele and Zaccarini, Mattia and Morelli, Alessandro and Fronteddu, Roberto and Poltronieri, Filippo and Suri, Niranjan and Tortonesi, Mauro},
+    booktitle={MILCOM 2023 - 2023 IEEE Military Communications Conference (MILCOM)},
     title={Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments},
-    author={Raffaele Galliera and Mattia Zaccarini and Alessandro Morelli and Roberto Fronteddu and Filippo Poltronieri and Niranjan Suri and Mauro Tortonesi},
     year={2023},
-    month={June},
-    eprint={2306.15591},
+    volume={},
+    number={},
+    pages={424-429},
+    doi={10.1109/MILCOM58377.2023.10356270},
     archivePrefix={arXiv},
     primaryClass={cs.LG},
     abstract={Conventional Congestion Control (CC) algorithms,such as TCP Cubic, struggle in tactical environments as they misinterpret packet loss and fluctuating network performance as congestion symptoms. Recent efforts, including our own MARLIN, have explored the use of Reinforcement Learning (RL) for CC, but they often fall short of generalization, particularly in competitive, unstable, and unforeseen scenarios. To address these challenges, this paper proposes an RL framework that leverages an accurate and parallelizable emulation environment to reenact the conditions of a tactical network. We also introduce refined RL formulation and performance evaluation methods tailored for agents operating in such intricate scenarios. We evaluate our RL learning framework by training a MARLIN agent in conditions replicating a bottleneck link transition between a Satellite Communication (SATCOM) and an UHF Wide Band (UHF) radio link. Finally, we compared its performance in file transfer tasks against Transmission Control Protocol (TCP) Cubic and the default strategy implemented in the Mockets tactical communication middleware. The results demonstrate that the MARLIN RL agent outperforms both TCP and Mockets under different perspectives and highlight the effectiveness of specialized RL solutions in optimizing CC for tactical network environments.},
     bibtex_show={true},
     arxiv={2306.15591},
     selected={true},
-    note={To appear in proceedings of the 2023 IEEE Military Communications Conference (MILCOM)},
     slides={marlin_milcom_presentation.pdf},
     code={https://github.com/RaffaeleGalliera/marlin-rlcc},
 }
+
 
 @misc{galliera2023learning,
     title={Learning Collaborative Information Dissemination with Graph-based Multi-Agent Reinforcement Learning},
