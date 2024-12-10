@@ -24,6 +24,20 @@
   },
   "work": [
     {
+      "name": "Apple",
+      "position": "Research and Development Intern",
+      "url": "https://www.apple.com/",
+      "startDate": "2024-04",
+      "endDate": "2024-10",
+      "summary": "Wireless Technologies and Ecosystems",
+
+      "highlights": [
+        "Single and Multi-Agent Reinforcement Learning",
+        "Communication Networks",
+        "Distributed Systems"
+      ]
+    },
+    {
       "name": "Institute for Human and Machine Cognition and The University of West Florida",
       "position": "Research Assistant",
       "url": "https://www.ihmc.us/",

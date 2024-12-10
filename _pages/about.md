@@ -28,7 +28,7 @@ During my master's degree, in 2021,  I served as vice president of the Artificia
 In 2023, I first-authored publications on single and multi-agent Reinforcement Learning and presented at the <a href='https://sites.google.com/view/rlready4prodworkshop/home'>AAAI 2023 Reinforcement Learning Ready for Production Workshop</a> and at the <a href='mlforsystems.org'> NeurIPS 2023 Workshop on Machine Learning for Systems</a>.
 I have also been accepted at the <a href='https://aaai.org/aaai-conference/dc-24-program/'>29th AAAI/SIGAI Doctoral Consortium</a> at AAAI 2024, where I presented my research on Deep Reinforcement Learning for Communication Networks.
 
-From April until October 2024 I participated in 6-months internship for Apple, working on single and multi-agent Reinforcement Learning for the Wireless Technology and Ecosystems team in San Diego.
+From April until October 2024 I participated in a 6-months internship for Apple, working on single and multi-agent Reinforcement Learning for the Wireless Technology and Ecosystems team in San Diego.
 
 My academic journey began at the University of Ferrara, where I earned a Bachelor's Degree in Electronics and Computer Science Engineering. A double degree program in Computer Science between the University of Ferrara and the University of West Florida led me to complete my Master of Science in Computer Science at UWF. After my Master's Degree, I embarked on my Ph.D. in Intelligent Systems and Robotics, a joint program between IHMC and UWF, under the advice of <a href='https://www.ihmc.us/groups/nsuri/'>Dr. Niranjan Suri</a> and <a href='https://www.ihmc.us/groups/bvenable/'>Dr. Kristen Brent Venable</a>.
 
