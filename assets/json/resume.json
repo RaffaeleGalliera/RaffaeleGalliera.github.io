@@ -32,9 +32,10 @@
       "summary": "Wireless Technologies and Ecosystems",
 
       "highlights": [
-        "Single and Multi-Agent Reinforcement Learning",
-        "Communication Networks",
-        "Distributed Systems"
+        "(Multi-Agent) Reinforcement Learning applied to wireless communications",\,
+        "Inter-process communication",
+        "Planning, management, and deployment of large-scale experiments",
+        "Software containerization"
       ]
     },
     {
